@@ -1,0 +1,4 @@
+
+# vim-airlines settings
+let g:airline_powerline_fonts=1
+let g:Poweline_symbols='fancy'
